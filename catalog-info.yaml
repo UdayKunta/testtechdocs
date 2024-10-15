@@ -4,6 +4,7 @@ metadata:
   name: "testtechdocs"
   description: An example template
   annotations:
+    github.com/project-slug: UdayKunta/testtechdocs
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
